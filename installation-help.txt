@@ -1,0 +1,9 @@
+How to install this source as your support bot (Telegram)?
+Follow these steps one by one, if you had any issues/iseas/reports/suggests you can contact me:
+My telegram Account : @ImFreakingGod
+#===================Installation====================#
+1. Place this folder to your Public_html in your host.
+2. Change line #5 (Replace it with your chat_id/user_id, you can also set ID of a group (But you need to add bot into the group first!) Also you can get your user_id account with bot (@UserInfoBot).
+3. Change line #6 (Replace it with your Bot TOKEN!) you can get your bot token here (@BotFather).
+4. Set webhook (If you don't know how, the nsearch ut in google!)
+5. Start your bot, its DONE!
